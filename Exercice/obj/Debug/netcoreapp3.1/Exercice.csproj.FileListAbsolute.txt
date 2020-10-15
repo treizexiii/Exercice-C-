@@ -1,0 +1,13 @@
+C:\Users\darkt\source\repos\Exercice\Exercice\bin\Debug\netcoreapp3.1\Exercice.exe
+C:\Users\darkt\source\repos\Exercice\Exercice\bin\Debug\netcoreapp3.1\Exercice.deps.json
+C:\Users\darkt\source\repos\Exercice\Exercice\bin\Debug\netcoreapp3.1\Exercice.runtimeconfig.json
+C:\Users\darkt\source\repos\Exercice\Exercice\bin\Debug\netcoreapp3.1\Exercice.runtimeconfig.dev.json
+C:\Users\darkt\source\repos\Exercice\Exercice\bin\Debug\netcoreapp3.1\Exercice.dll
+C:\Users\darkt\source\repos\Exercice\Exercice\bin\Debug\netcoreapp3.1\Exercice.pdb
+C:\Users\darkt\source\repos\Exercice\Exercice\obj\Debug\netcoreapp3.1\Exercice.csprojAssemblyReference.cache
+C:\Users\darkt\source\repos\Exercice\Exercice\obj\Debug\netcoreapp3.1\Exercice.AssemblyInfoInputs.cache
+C:\Users\darkt\source\repos\Exercice\Exercice\obj\Debug\netcoreapp3.1\Exercice.AssemblyInfo.cs
+C:\Users\darkt\source\repos\Exercice\Exercice\obj\Debug\netcoreapp3.1\Exercice.csproj.CoreCompileInputs.cache
+C:\Users\darkt\source\repos\Exercice\Exercice\obj\Debug\netcoreapp3.1\Exercice.dll
+C:\Users\darkt\source\repos\Exercice\Exercice\obj\Debug\netcoreapp3.1\Exercice.pdb
+C:\Users\darkt\source\repos\Exercice\Exercice\obj\Debug\netcoreapp3.1\Exercice.genruntimeconfig.cache
